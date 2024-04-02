@@ -5,7 +5,7 @@ This Dockerfile contains HTML files to build a webserver image that confirms whe
 1. **Pull the Docker Image:**
    If you want to use the Dockerfile directly, you can first clone the repository:
 ```
-   git clone https://github.com/diablolurker/webserver-dockerfile.git
+   git clone https://github.com/diablolurker/DockerWeb.git
 ```
  
 
