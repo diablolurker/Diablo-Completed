@@ -9,8 +9,9 @@ git clone https://github.com/diablolurker/webserver-dockerfile.git
 
 2. **Build the Docker Image:**
 Navigate to the directory containing the Dockerfile and HTML files, then run:
-docker build -t my-webserver .
-
+```
+   docker build -t my-webserver .
+```
 
 This command builds a Docker image named `my-webserver` using the Dockerfile and HTML files in the current directory.
 
